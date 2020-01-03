@@ -12,6 +12,8 @@ https://airtable.com/invite/l?inviteId=invwfyx1VcqLCvWF2&inviteToken=5faf0f289ed
 
 
 
+Demonstrate basic knowledge general automation platform platforms as a service
+
 Here I used Microsoft Flow as a general automation platform that notifies a user if the hashtag '#atant' is used.
 The notification is sent in an email with the host email as 'Gw0064a@american.edu'and the recipient is 
 ' Gwpierocks10@gmail.com.  This a basic low-level automation but after looking at all the features Microsoft Flow 
